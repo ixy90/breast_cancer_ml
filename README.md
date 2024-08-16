@@ -11,7 +11,9 @@ The Breast Cancer Wisconsin (Diagnostic) Data Set contains 569 samples of breast
 For each of these features, three statistical values are provided:
 
 Mean: The average value of the respective feature.
+
 Standard Error: A measure of the variability of the feature within a sample.
+
 Worst: The highest measured value of the feature in the sample.
 The dataset was originally created by W. Wolberg, O. Mangasarian, N. Street, and W. Street at the University of Wisconsin-Madison and is available through the UCI Machine Learning Repository on Kaggle.
 Source: Kaggle https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
